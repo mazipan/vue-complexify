@@ -13,6 +13,7 @@
     "test": "./node_modules/.bin/jest --coverage",
     "dist": "npm run lint && npm run build && npm run pack"
   },
+  "homepage": "https://mazipan.github.io/vue-complexify/",
   "main": "dist/vue-complexify.js",
   "files": [
     "dist/vue-complexify.js",
