@@ -10,7 +10,7 @@
 [![downloads](https://img.shields.io/npm/dt/vue-complexify.svg)](https://www.npmjs.com/package/vue-complexify) 
 
 
-Vuejs porting library from jquery.complexify.js
+:cop: Vuejs porting library from jquery.complexify.js
 
 ## Dependency
 For now, still using library :
