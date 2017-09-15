@@ -3,7 +3,7 @@ var webpack = require('webpack')
 var npm = require('./package.json')
 
 module.exports = {
-  entry: './src/main-dist.js',
+  entry: './src/VueComplexify.js',
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist',
