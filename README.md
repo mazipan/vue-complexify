@@ -16,6 +16,9 @@ Vuejs porting library from jquery.complexify.js
 For now, still using library :
 + [node-complexify](https://github.com/kislyuk/node-complexify)
 
+## Demo
+[https://mazipan.github.io/vue-complexify/](https://mazipan.github.io/vue-complexify/)
+
 ## How to use
 
 #### Import plugins
