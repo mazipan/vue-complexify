@@ -1,11 +1,6 @@
 # vue-complexify
 
-[![License](https://img.shields.io/github/license/mazipan/vue-complexify.svg?maxAge=3600)](https://github.com/mazipan/vue-complexify) 
-[![Github Issue](https://img.shields.io/github/issues/mazipan/vue-complexify.svg?maxAge=3600)](https://github.com/mazipan/vue-complexify/issues) 
-[![GitHub Fork](https://img.shields.io/github/forks/mazipan/vue-complexify.svg?maxAge=3600)](https://github.com/mazipan/vue-complexify/network/member) 
-[![GitHub Star](https://img.shields.io/github/stars/mazipan/vue-complexify.svg?maxAge=3600)](https://github.com/mazipan/vue-complexify/stargazers) 
-
-[![version](https://img.shields.io/npm/v/vue-complexify.svg)](https://www.npmjs.com/package/vue-complexify)
+[![License](https://img.shields.io/github/license/mazipan/vue-complexify.svg?maxAge=3600)](https://github.com/mazipan/vue-complexify) ![minified](https://badgen.net/bundlephobia/minzip/vue-complexify) [![version](https://img.shields.io/npm/v/vue-complexify.svg)](https://www.npmjs.com/package/vue-complexify)
 [![downloads monthly](https://img.shields.io/npm/dm/vue-complexify.svg)](https://www.npmjs.com/package/vue-complexify) 
 [![downloads](https://img.shields.io/npm/dt/vue-complexify.svg)](https://www.npmjs.com/package/vue-complexify) 
 
